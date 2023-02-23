@@ -1,2 +1,8 @@
 # weather_app
-Simple Weather APP using android compose
+An simple application using
+
+- KTOR client
+- Permissions
+- Constraint Layout
+- Dependency injection with Dagger Hilt
+- Animations with Lottie
